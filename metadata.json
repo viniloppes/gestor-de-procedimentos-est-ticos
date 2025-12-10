@@ -1,0 +1,5 @@
+{
+  "name": "Gestor de Procedimentos Estéticos",
+  "description": "Gerenciador de tabela de preços de serviços estéticos com funcionalidade de exportação para WhatsApp e persistência local.",
+  "requestFramePermissions": []
+}
